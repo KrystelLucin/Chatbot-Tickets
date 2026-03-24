@@ -1,0 +1,11 @@
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/bin/Release/net10.0/BotConversacional.Domain.deps.json
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/bin/Release/net10.0/BotConversacional.Domain.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/bin/Release/net10.0/BotConversacional.Domain.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.AssemblyInfoInputs.cache
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.AssemblyInfo.cs
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.csproj.CoreCompileInputs.cache
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/refint/BotConversacional.Domain.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/BotConversacional.Domain.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Domain/obj/Release/net10.0/ref/BotConversacional.Domain.dll

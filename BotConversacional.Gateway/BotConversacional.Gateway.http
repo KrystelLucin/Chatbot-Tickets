@@ -1,0 +1,6 @@
+@BotConversacional.Gateway_HostAddress = http://localhost:5263
+
+GET {{BotConversacional.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BotConversacional.Api/BotConversacional.Api.csproj" />
+  <Project Path="BotConversacional.Application/BotConversacional.Application.csproj" />
+  <Project Path="BotConversacional.Domain/BotConversacional.Domain.csproj" />
+  <Project Path="BotConversacional.Gateway/BotConversacional.Gateway.csproj" />
+  <Project Path="BotConversacional.Infrastructure/BotConversacional.Infrastructure.csproj" />
+  <Project Path="BotConversacional.MockApi/BotConversacional.MockApi.csproj" />
+</Solution>

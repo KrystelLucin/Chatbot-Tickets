@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BotConversacional.Application/1.0.0": {
+        "dependencies": {
+          "BotConversacional.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BotConversacional.Application.dll": {}
+        }
+      },
+      "BotConversacional.Domain/1.0.0": {
+        "runtime": {
+          "BotConversacional.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotConversacional.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BotConversacional.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

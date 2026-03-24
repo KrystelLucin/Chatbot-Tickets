@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BotConversacional.Domain/1.0.0": {
+        "runtime": {
+          "BotConversacional.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotConversacional.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

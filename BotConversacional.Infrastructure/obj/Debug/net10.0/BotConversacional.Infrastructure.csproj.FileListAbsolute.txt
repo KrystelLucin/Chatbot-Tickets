@@ -1,0 +1,17 @@
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Infrastructure.deps.json
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Infrastructure.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Infrastructure.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Application.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Domain.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Application.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/bin/Debug/net10.0/BotConversacional.Domain.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.csproj.AssemblyReference.cache
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.AssemblyInfoInputs.cache
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.AssemblyInfo.cs
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConve.A3DD5AD8.Up2Date
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/refint/BotConversacional.Infrastructure.dll
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/BotConversacional.Infrastructure.pdb
+/Users/krystellucin/Documents/Pruebas/BotConversacional/BotConversacional.Infrastructure/obj/Debug/net10.0/ref/BotConversacional.Infrastructure.dll
